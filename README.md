@@ -16,6 +16,7 @@ This works currently under macOS, Linux and the Linux subsystem on Windows. On c
 ## Maintainers
 
 - Ethan Gates (EG-tech)
+- Jonathan Farbowitz
 
 ## Contribute
 Please feel free to clone this repository or create a new branch and submit a pull request with your own additions of modules for signal types, interfaces or connectors you think we're missing (there's a lot!). 
